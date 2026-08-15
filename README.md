@@ -2,11 +2,8 @@
 
 ![GitHub License](https://img.shields.io/github/license/JGabrielJ/ProjetosAcademicos?style=for-the-badge&labelColor=indigo&color=maroon)
 ![GitHub repo directory count](https://img.shields.io/github/directory-file-count/JGabrielJ/ProjetosAcademicos?type=dir&style=for-the-badge&label=directories)
-![GitHub repo size](https://img.shields.io/github/repo-size/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JGabrielJ/ProjetosAcademicos?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/JGabrielJ/ProjetosAcademicos?style=for-the-badge&labelColor=navy&color=gold)
 
