@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,swift,kotlin,android,androidstudio,xcode,node,grunt,bower,waf,jspm,yarn,replit,venv,dotenv,virtualenv,nextjs,nuxtjs,gatsby,vue,vuejs,serverless,visualstudiocode,visualstudio,java,gradle,eclipse,intellij,fastlane
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,swift,kotlin,android,androidstudio,xcode,node,grunt,bower,waf,jspm,yarn,replit,venv,dotenv,virtualenv,nextjs,nuxtjs,gatsby,vue,vuejs,serverless,visualstudiocode,visualstudio,java,gradle,eclipse,intellij,fastlane
+# Created by https://www.toptal.com/developers/gitignore/api/vue,waf,java,jspm,node,venv,yarn,bower,grunt,swift,vuejs,xcode,dotenv,gatsby,gradle,kotlin,nextjs,nuxtjs,python,replit,android,eclipse,fastlane,intellij,serverless,virtualenv,visualstudio,androidstudio,jupyternotebooks,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=vue,waf,java,jspm,node,venv,yarn,bower,grunt,swift,vuejs,xcode,dotenv,gatsby,gradle,kotlin,nextjs,nuxtjs,python,replit,android,eclipse,fastlane,intellij,serverless,virtualenv,visualstudio,androidstudio,jupyternotebooks,visualstudiocode
 
 ### Android ###
 # Gradle files
@@ -295,6 +295,20 @@ replay_pid*
 ### jspm ###
 jspm_packages
 
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
 ### Kotlin ###
 # Compiled class file
 
@@ -560,11 +574,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
-profile_default/
-ipython_config.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
@@ -1340,6 +1351,7 @@ FodyWeavers.xsd
 *.code-workspace
 
 # Local History for Visual Studio Code
+.vscode
 
 # Windows Installer files from build outputs
 *.cab
@@ -1354,4 +1366,4 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/python,swift,kotlin,android,androidstudio,xcode,node,grunt,bower,waf,jspm,yarn,replit,venv,dotenv,virtualenv,nextjs,nuxtjs,gatsby,vue,vuejs,serverless,visualstudiocode,visualstudio,java,gradle,eclipse,intellij,fastlane
+# End of https://www.toptal.com/developers/gitignore/api/vue,waf,java,jspm,node,venv,yarn,bower,grunt,swift,vuejs,xcode,dotenv,gatsby,gradle,kotlin,nextjs,nuxtjs,python,replit,android,eclipse,fastlane,intellij,serverless,virtualenv,visualstudio,androidstudio,jupyternotebooks,visualstudiocode
