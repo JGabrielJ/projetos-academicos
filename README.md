@@ -37,3 +37,7 @@ As aplicações se dividem em duas "categorias" diferentes, referenciadas logo a
 6. [**Calculadora Simples (Python + PyTest + Azure DevOps)**](./TDD_Calculator/): utilização de TDD (Test-Driven Development) para testes com cálculos aritméticos;
 7. [**Comunicação de Instrumentos (Python + PySerial + PyTest)**](./Instrument_Comunication/): leitura de dados via porta serial simulada e customização de Exceptions;
 8. [**Ciência de Dados com Álgebra Linear (Python + NumPy + Pandas + Matplotlib + Seaborn + Scikit-Learn)**](./CienciaDados/): cálculo de matrizes, visualização estatística e previsão de resultados.
+
+#### 🪽💧 Projetos da CAGECE
+
+1. [**Práticas com Planilhas .xlsx (Excel + VBA)**](./ExcelPractices/): elaboração de tabelas gráficos, dashboards e macros com Visual Basic for Applications.
